@@ -13,8 +13,8 @@ Link: https://github.com/Eren-r/Flower_Classification.git
 ### 3. File Organizer Bot
 Link: https://github.com/Eren-r/File_Organizer.git
 
-### 4. Image Caption Generator
-Link: https://github.com/yourusername/image-caption-generator
+### 4. Note Pad
+Link: https://github.com/Eren-r/Note_Pad.git
 
 ### 5. AI Chatbot with Memory
 Link: https://github.com/yourusername/ai-chatbot-memory
