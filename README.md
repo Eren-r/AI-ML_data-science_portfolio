@@ -1,6 +1,5 @@
 # AI-ML_data-science_portfolio
 
-# Data Science Portfolio
 
 ## Featured Projects
 
