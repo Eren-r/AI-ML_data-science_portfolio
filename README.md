@@ -7,8 +7,8 @@
 ### 1. Sales Forecasting ML
 Link: https://github.com/Eren-r/sales_forecasting_ml.git
 
-### 2. Fake News Detection
-Link: https://github.com/yourusername/fake-news-detection
+### 2. Iris Flower Classification
+Link: https://github.com/Eren-r/Flower_Classification.git
 
 ### 3. Secure Notes App
 Link: https://github.com/yourusername/secure-notes-app
