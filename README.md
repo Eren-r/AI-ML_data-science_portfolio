@@ -5,7 +5,7 @@
 ## Featured Projects
 
 ### 1. Sales Forecasting ML
-Link: https://github.com/yourusername/sales-forecasting-ml
+Link: https://github.com/Eren-r/sales_forecasting_ml.git
 
 ### 2. Fake News Detection
 Link: https://github.com/yourusername/fake-news-detection
