@@ -20,4 +20,4 @@ Link: https://github.com/Eren-r/Note_Pad.git
 Link: https://github.com/Eren-r/Password_Storage.git
 
 ### 6. Stone Paper Secior Game
-Link: 
+Link: https://github.com/Eren-r/stone_paper_scissor_game.git
