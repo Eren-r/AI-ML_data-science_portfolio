@@ -1,6 +1,5 @@
 # AI-ML_data-science_portfolio
 
----
 
 ### About Me: https://github.com/Eren-r/Varad_Pardeshi.git
 
