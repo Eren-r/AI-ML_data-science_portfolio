@@ -10,20 +10,23 @@
 ### 1. Sales Forecasting ML
 Link: https://github.com/Eren-r/sales_forecasting_ml.git
 
-### 2. Voice Assistant
+### 2. Crop Disease Detection
+Link: https://github.com/Eren-r/Crop_Disease_Detection_System.git
+
+### 3. Voice Assistant
 Link: https://github.com/Eren-r/Voice_Assistant.git
 
-### 3. Iris Flower Classification
+### 4. Iris Flower Classification
 Link: https://github.com/Eren-r/Flower_Classification.git
 
-### 4. File Organizer Bot
+### 5. File Organizer Bot
 Link: https://github.com/Eren-r/File_Organizer.git
 
-### 5 . Note Pad
+### 6. Note Pad
 Link: https://github.com/Eren-r/Note_Pad.git
 
-### 6. Password Storage
+### 7. Password Storage
 Link: https://github.com/Eren-r/Password_Storage.git
 
-### 7. Stone Paper Secior Game
+### 8. Stone Paper Secior Game
 Link: https://github.com/Eren-r/stone_paper_scissor_game.git
