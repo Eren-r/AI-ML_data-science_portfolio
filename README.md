@@ -10,7 +10,7 @@
 ### 1. Sales Forecasting ML
 Link: https://github.com/Eren-r/sales_forecasting_ml.git
 
-### 2. Crop Disease Detection
+### 2. AI Crop Disease Detection
 Link: https://github.com/Eren-r/Crop_Disease_Detection_System.git
 
 ### 3. Voice Assistant
