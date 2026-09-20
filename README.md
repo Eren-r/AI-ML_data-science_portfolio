@@ -20,7 +20,7 @@ Link: https://github.com/Eren-r/Plant-Disease-Detection-V2.git
 Link: https://github.com/Eren-r/Voice_Assistant.git
 
 ### 5. CivicResolve AI
-Link:
+Link: https://github.com/Eren-r/CivicResolve-AI.git
 
 ### 6. Iris Flower Classification
 Link: https://github.com/Eren-r/Flower_Classification.git
