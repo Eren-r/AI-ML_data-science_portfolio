@@ -19,17 +19,20 @@ Link: https://github.com/Eren-r/Plant-Disease-Detection-V2.git
 ### 4. Voice Assistant
 Link: https://github.com/Eren-r/Voice_Assistant.git
 
-### 5. Iris Flower Classification
+### 5. CivicResolve AI
+Link:
+
+### 6. Iris Flower Classification
 Link: https://github.com/Eren-r/Flower_Classification.git
 
-### 6. File Organizer Bot
+### 7. File Organizer Bot
 Link: https://github.com/Eren-r/File_Organizer.git
 
-### 7. Note Pad
+### 8. Note Pad
 Link: https://github.com/Eren-r/Note_Pad.git
 
-### 8. Password Storage
+### 9. Password Storage
 Link: https://github.com/Eren-r/Password_Storage.git
 
-### 9. Stone Paper Secior Game
+### 10. Stone Paper Secior Game
 Link: https://github.com/Eren-r/stone_paper_scissor_game.git
