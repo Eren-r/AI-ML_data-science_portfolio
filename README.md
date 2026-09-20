@@ -14,7 +14,7 @@ Link: https://github.com/Eren-r/sales_forecasting_ml.git
 Link: https://github.com/Eren-r/Titanic_Survival_Analysis.git
 
 ### 3. AI Crop Disease Detection
-Link: https://github.com/Eren-r/Crop_Disease_Detection_System.git
+Link: https://github.com/Eren-r/Plant-Disease-Detection-V2.git
 
 ### 4. Voice Assistant
 Link: https://github.com/Eren-r/Voice_Assistant.git
