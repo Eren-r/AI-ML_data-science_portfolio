@@ -7,32 +7,35 @@
 
 ## Featured Projects
 
-### 1. Sales Forecasting ML
-Link: https://github.com/Eren-r/sales_forecasting_ml.git
-
-### 2. Titanic Survival Analysis
-Link: https://github.com/Eren-r/Titanic_Survival_Analysis.git
-
-### 3. AI Crop Disease Detection
+### 1. AI Crop Disease Detection
 Link: https://github.com/Eren-r/Plant-Disease-Detection-V2.git
 
-### 4. Voice Assistant
-Link: https://github.com/Eren-r/Voice_Assistant.git
+### 2. ThermoSentinel-AI
+Link: https://github.com/Eren-r/ThermoSentinel-AI.git
 
-### 5. CivicResolve AI
+### 3. CivicResolve AI
 Link: https://github.com/Eren-r/CivicResolve-AI.git
 
-### 6. Iris Flower Classification
+### 4. Sales Forecasting ML
+Link: https://github.com/Eren-r/sales_forecasting_ml.git
+
+### 5. Titanic Survival Analysis
+Link: https://github.com/Eren-r/Titanic_Survival_Analysis.git
+
+### 6. Voice Assistant
+Link: https://github.com/Eren-r/Voice_Assistant.git
+
+### 7. Iris Flower Classification
 Link: https://github.com/Eren-r/Flower_Classification.git
 
-### 7. File Organizer Bot
+### 8. File Organizer Bot
 Link: https://github.com/Eren-r/File_Organizer.git
 
-### 8. Note Pad
+### 9. Note Pad
 Link: https://github.com/Eren-r/Note_Pad.git
 
-### 9. Password Storage
+### 10. Password Storage
 Link: https://github.com/Eren-r/Password_Storage.git
 
-### 10. Stone Paper Secior Game
+### 11. Stone Paper Secior Game
 Link: https://github.com/Eren-r/stone_paper_scissor_game.git
